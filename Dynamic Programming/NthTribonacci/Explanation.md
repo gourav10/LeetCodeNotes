@@ -16,7 +16,7 @@ Example:
 **Input**: n = 4
 **Output**: 4
 **Explanation**:
-index C[_i_] represents the Tribonacci  Number at position i.
+index C[_i_] represents the Tribonacci  Number at position i.<br>
 C[0]=0, C[1]=1, C[2]=1
 C[3] = C[0] +C[1]+C[2] = 0+1+1 =2
 C[4] = C[1]+C[2]+C[3] = 1+1+2 = 4
